@@ -1,0 +1,6 @@
+{
+  "name": "TechMoney",
+  "description": "Clean, premium and modern one-page landing page for TechMoney: How to Make Money Online digital guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
